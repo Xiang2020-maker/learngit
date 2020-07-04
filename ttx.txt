@@ -1,0 +1,2 @@
+Git is a beautiful tool.
+Git is a nice software.
